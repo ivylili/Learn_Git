@@ -1,3 +1,3 @@
-# Learn_git
+# Learn_Git
 
-learn how to git
+learn how to use git
